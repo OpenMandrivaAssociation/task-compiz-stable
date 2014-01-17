@@ -1,5 +1,5 @@
 Name:		task-compiz-stable
-Version:	2012.1
+Version:	%distro_release
 Release:	1
 Summary:	Meta task for stable version of Compiz
 License:	GPLv2
