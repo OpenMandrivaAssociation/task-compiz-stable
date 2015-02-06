@@ -1,6 +1,6 @@
 Name:		task-compiz-stable
 Version:	%distro_release
-Release:	1
+Release:	2
 Summary:	Meta task for stable version of Compiz
 License:	GPLv2
 Group:		System/X11
