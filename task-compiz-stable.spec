@@ -4,7 +4,7 @@ Release:	2
 Summary:	Meta task for stable version of Compiz
 License:	GPLv2
 Group:		System/X11
-URL:		http://www.compiz.org/
+URL:		https://www.compiz.org/
 Requires:	compiz0.8
 Requires:	ccsm0.8
 Requires:	compiz-fusion
